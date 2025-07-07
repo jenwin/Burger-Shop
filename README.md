@@ -4,6 +4,8 @@ A simple terminal-based .NET application for taking customer orders interactivel
 ## Features
 - Runs directly in the terminal
 - Simple and lightweight
+- Interactive ordering flow
+- Pre-defined menu
 
 ## Technologies
 - .NET SDK
